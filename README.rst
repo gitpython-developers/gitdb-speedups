@@ -6,10 +6,10 @@ Optional speedups for GitDB
 Installation
 ============
 
-.. image:: https://pypip.in/version/gitdb-speedups/badge.svg
+.. image:: https://img.shields.io/pypi/v/gitdb-speedups.svg
     :target: https://pypi.python.org/pypi/gitdb-speedups/
     :alt: Latest Version
-.. image:: https://pypip.in/py_versions/gitdb-speedups/badge.svg
+.. image:: https://img.shields.io/pypi/pyversions/gitdb-speedups.svg
     :target: https://pypi.python.org/pypi/gitdb-speedups/
     :alt: Supported Python versions
 
